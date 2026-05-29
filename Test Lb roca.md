@@ -1,8 +1,4 @@
-
-
-#PRUEBA DE SYNC
-> Written with [StackEdit](https://stackedit.io/).fwef
-> wef
+PRUEBA DE SYNC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjIyNjMyOCwxNDIzMjUzNzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTA4MDY0MzEsMTQyMzI1Mzc0XX0=
 -->
